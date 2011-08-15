@@ -1,0 +1,13 @@
+html { background: #000; font-size: 62.5%; }
+section { width: 65em; height: 65em; padding: 5em; font-size: 12px; }
+section span { text-shadow: 0 0 0.3em #FFF, 0 0 0.05em #FFF, 0 0 0.01em #FFF; }
+section.selected { margin: 0 auto; }
+		
+/* EUCLIDES DA CUNHA */
+section#euclides span { color: #FFF; display: block; font: normal 3.1em 'Anton'; text-align: center; letter-spacing: 2px; }
+section#euclides span.s { font-size: 2em; line-height: 1em; }
+section#euclides span.m { font-size: 4.5em; line-height: 1.5em; }
+section#euclides span.l { font-size: 5em; line-height: 1em; }
+section#euclides span.xl { font-size: 7.3em; line-height: 1em; }
+section#euclides span.vertical { -webkit-transform: rotate(90deg); -moz-transform: rotate(90deg); -o-transform: rotate(90deg); -ms-transform: rotate(90deg); transform: rotate(90deg); line-height: 4.5em; }
+section#euclides span.author { text-align: right; margin: 2.5em 0 0 0; }
