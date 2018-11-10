@@ -1,4 +1,4 @@
-PLAZA OF THE LANGUAGE
+**PLAZA OF THE LANGUAGE**
 
 Resembling an amphitheatre with terraces, this area is a "planetarium of words", with visual 
 effects that are projected on the ceiling and a lighted floor. The projections include the great 
@@ -17,7 +17,7 @@ Bete Coelho, Chico Buarque, Juca de Oliveira, Maria Bethânia, Paulo José and Z
 Source: [Museum of the Portuguese Language](http://en.wikipedia.org/wiki/Museum_of_the_Portuguese_Language)
 
 
-PRAÇA DA LÍNGUA
+**PRAÇA DA LÍNGUA**
 
 Lembrando um anfiteatro, com arquibancadas, é um planetário de palavras no qual efeitos visuais
 são projetados no teto e um piso que se torna luminoso. Na tela são apresentados os grandes 
