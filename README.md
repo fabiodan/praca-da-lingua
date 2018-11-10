@@ -14,7 +14,7 @@ José Miguel Wisnik and Arthur Nestrovski.
 The presentation consists of three verses, twenty minutes each. The narrators are Arnaldo Antunes, 
 Bete Coelho, Chico Buarque, Juca de Oliveira, Maria Bethânia, Paulo José and Zélia Duncan among others.
 
-Source: http://en.wikipedia.org/wiki/Museum_of_the_Portuguese_Language
+Source: [Museum of the Portuguese Language](http://en.wikipedia.org/wiki/Museum_of_the_Portuguese_Language)
 
 
 PRAÇA DA LÍNGUA
@@ -35,4 +35,4 @@ A apresentação completa possui três versões de vinte minutos cada, que ocorr
 Os narradores selecionados são Arnaldo Antunes, Bete Coelho, Chico Buarque, Juca de Oliveira, 
 Maria Bethânia, Paulo José, Zélia Duncan, dentre outros selecionados pela beleza da voz.
 
-Fonte: http://pt.wikipedia.org/wiki/Museu_da_L%C3%ADngua_Portuguesa
+Fonte: [Museu da Língua Portuguesa](http://pt.wikipedia.org/wiki/Museu_da_L%C3%ADngua_Portuguesa)
